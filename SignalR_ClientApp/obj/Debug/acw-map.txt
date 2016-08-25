@@ -1,0 +1,4 @@
+SignalR_ClientApp.MainActivity, SignalR_ClientApp;md5b6c374ed4bc0b5605c7bf21372dbe55a.MainActivity
+SignalR_ClientApp.MainActivity, SignalR_ClientApp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5b6c374ed4bc0b5605c7bf21372dbe55a.MainActivity
+SignalR_ClientApp.MainActivity;md5b6c374ed4bc0b5605c7bf21372dbe55a.MainActivity
+signalr_clientapp.MainActivity;md5b6c374ed4bc0b5605c7bf21372dbe55a.MainActivity

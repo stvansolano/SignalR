@@ -1,0 +1,26 @@
+﻿<Properties StartupItem="SignalR_ClientApp/SignalR_ClientApp.csproj">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SignalR_ClientApp/MainActivity.cs">
+    <Files>
+      <File FileName="SignalR_ClientApp/MainActivity.cs" Line="45" Column="4" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SignalR_ClientApp" expanded="True" selected="True">
+            <Node name="SignalR_ClientApp" expanded="True">
+              <Node name="Resources" expanded="True">
+                <Node name="layout" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.SignalR__ClientApp AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.Xamarin_Android_API_23" />
+</Properties>
